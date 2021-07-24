@@ -1,39 +1,14 @@
-            ScrollView(.vertical) {
-                Group {
-                    Section {
-                        Text("Die nachstehende Datenschutzrichtlinie betrifft die App «Datemi» (nachstehend “App” oder “Datemi” genannt).\nDer Schutz und die Sicherheit von persönlichen Daten haben bei Datemi Priorität. Die Datenschutzrichtlinien wurden mit Hinblick auf das schweizerische Bundesgesetz über den Datenschutz (DSG) und die Datenschutz-Grundordnung (DSGVO) erarbeitet.\nNachfolgend werden Sie darüber informiert, welche Art von Daten erfasst und zu welchem Zweck sie erhoben werden: \n ")
-                    }//Einleitung
-
-                    Section {
-                        Text("1. Datenübermittlung und Datenprotokolierung\n")
-                            .fontWeight(.bold)
-                        Text("Angaben wie Nutzername, Alter, Geschlecht, Hintergrund, Beschreibung, nach welchem Geschlecht Sie suchen sowie Ihr Betriebssystem (iOS) werden auf Servern gespeichert. Breitengrad und Längengrad Ihres Standortes werden auf 0.005 genau gerundet und auf unserem Server gespeichert. Desweiteren empfiehlt Datemi die Funktion “Genauer Standort” zu deaktivieren. Durch die Rundung wird sichergestellt, dass Ihre genauen Koordinaten anonym bleiben. Die gerundeten Breiten- und Längengrade werden von den jeweiligen Endgeräten verwendet, um die Distanz zu Ihnen zu ermitteln. Distanzen, die kürzer als 1 Kilometer sind, werden auf 10 Meter genau angezeigt. Wann Ihre Profildaten zuletzt aktualisiert wurden, wird ebenfalls auf unserem Server gespeichert. Sämtliche dieser, bis hierhin genannten, Daten können Endgeräten zugänglich gemacht sowie auf ihnen gespeichert werden, um sie aus bereits zuvor genannten Gründen, als Bestandteil Ihres Profils, im Hintergrund zur Bereitstellung der App-Funktionen notwendigen Gründen zu verwenden. Durch die Nutzung der App gewähren Sie dem Betreiber der App die vollumfänglichen Rechte über die obengenannten Informationen.\nDie Angaben, dass Ihnen ein Profil gefällt und die gesendeten Chatnachrichten werden auf unserem Server gespeichert. Diese Daten werden zum Zweck der Bereitstellung der App-Funktionen gesammelt. Die Daten bleiben auf dem Gerät des Empfängers gespeichert.\nEine Garantie auf eine automatische Löschung von Daten auf dem Gerät des Empfängers besteht nicht (z. B. wegen Screenshots).\nEine App-spezifische Geräte ID wird zur einwandfreien Bereitstellung des Logins verwendet, ist aber nicht öffentlich für andere Nutzer zugänglich.\n Die App verwendet Firebase/Firestore.\n")
-                    }//Datenübermittlung und protokolierung
-                    
-                    Section{
-                        Text("2. Nutzung persönloicher Daten")
-                            .fontWeight(.bold)
-                        
-                        Text("Persönliche Daten können aufgrund gesetzlicher Vorschriften an Dritte weitergegeben werden. \n")
-                    }//Nutzung persönlicher Daten
-                    
-                    Section {
-                        Text("3. Deaktivierung Nutzerprofil")
-                            .fontWeight(.bold)
-                        Text("Die Deaktivierung Ihrer persönlichen Daten und Ihres Profils von den Servern können Sie bewirken werden. Auf Geräten von anderen Nutzern allfällig offline gespeicherte Daten wie beispielsweise Chatverläufe oder Informationen zu Ihrem Profil bleiben bestehen.\n")
-                    }//disable profile
-                    
-                    Section {
-                        Text("5. Sicherheit der Daten")
-                            .fontWeight(.bold)
-                        
-                        Text("Persönlichen Daten werden durch Ergreifung aller technischer sowie organisatorischer Sicherheitsmassnahmen mit Sorgfalt behandelt und so gesichert. Unberechtigte Dritte haben keinen Zugang zu persönlichen Daten.\n")
-                    }//Datasecurity
-                    
-                    Section{
-                        Text("6. Änderungen Datenschutzbestimmungen")
-                            .fontWeight(.bold)
-                        Text("Die obigen Datenschutzrichtlinien können jederzeit, im Rahmen des Gesetzes, geändert und erweitert werden. Mit der Nutzung der App erklären Sie sich mit den Bedingungen dieser Richtlinie zum Schutz persönlicher Daten einverstanden.\n")
+Die nachstehende Datenschutzrichtlinie betrifft die App «Datemi» (nachstehend “App” oder “Datemi” genannt). Der Schutz und die Sicherheit von persönlichen Daten haben bei Datemi Priorität. Die Datenschutzrichtlinien wurden mit Hinblick auf das schweizerische Bundesgesetz über den Datenschutz (DSG) und die Datenschutz-Grundordnung (DSGVO) erarbeitet. Nachfolgend werden Sie darüber informiert, welche Art von Daten erfasst und zu welchem Zweck sie erhoben werden:
+1. Datenübermittlung und Datenprotokolierung
+Angaben wie Nutzername, Alter, Geschlecht, Hintergrund, Beschreibung, nach welchem Geschlecht Sie suchen sowie Ihr Betriebssystem (iOS) werden auf Servern gespeichert. Breitengrad und Längengrad Ihres Standortes werden auf 0.005 genau gerundet und auf unserem Server gespeichert. Desweiteren empfiehlt Datemi die Funktion “Genauer Standort” zu deaktivieren. Durch die Rundung wird sichergestellt, dass Ihre genauen Koordinaten anonym bleiben. Die gerundeten Breiten- und Längengrade werden von den jeweiligen Endgeräten verwendet, um die Distanz zu Ihnen zu ermitteln. Distanzen, die kürzer als 1 Kilometer sind, werden auf 10 Meter genau angezeigt. Wann Ihre Profildaten zuletzt aktualisiert wurden, wird ebenfalls auf unserem Server gespeichert. Sämtliche dieser, bis hierhin genannten, Daten können Endgeräten zugänglich gemacht sowie auf ihnen gespeichert werden, um sie aus bereits zuvor genannten Gründen, als Bestandteil Ihres Profils, im Hintergrund zur Bereitstellung der App-Funktionen notwendigen Gründen zu verwenden. Durch die Nutzung der App gewähren Sie dem Betreiber der App die vollumfänglichen Rechte über die obengenannten Informationen. Die Angaben, dass Ihnen ein Profil gefällt und die gesendeten Chatnachrichten werden auf unserem Server gespeichert. Diese Daten werden zum Zweck der Bereitstellung der App-Funktionen gesammelt. Die Daten bleiben auf dem Gerät des Empfängers gespeichert. Eine Garantie auf eine automatische Löschung von Daten auf dem Gerät des Empfängers besteht nicht (z. B. wegen Screenshots). Eine App-spezifische Geräte ID wird zur einwandfreien Bereitstellung des Logins verwendet, ist aber nicht öffentlich für andere Nutzer zugänglich. Die App verwendet Firebase/Firestore.
+2. Nutzung persönloicher Daten
+Persönliche Daten können aufgrund gesetzlicher Vorschriften an Dritte weitergegeben werden.
+3. Deaktivierung Nutzerprofil
+Die Deaktivierung Ihrer persönlichen Daten und Ihres Profils von den Servern können bewirkt werden. Auf Geräten von anderen Nutzern allfällig offline gespeicherte Daten wie beispielsweise Chatverläufe oder Informationen zu Ihrem Profil bleiben bestehen.
+5. Sicherheit der Daten
+Persönlichen Daten werden durch Ergreifung aller technischer sowie organisatorischer Sicherheitsmassnahmen mit Sorgfalt behandelt und so gesichert. Unberechtigte Dritte haben keinen Zugang zu persönlichen Daten.
+6. Änderungen Datenschutzbestimmungen
+Die obigen Datenschutzrichtlinien können jederzeit, im Rahmen des Gesetzes, geändert und erweitert werden. Mit der Nutzung der App erklären Sie sich mit den Bedingungen dieser Richtlinie zum Schutz persönlicher Daten einverstanden.\n")
                     }//änderungen
                     
                     Section{

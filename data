@@ -8,49 +8,23 @@ Die Deaktivierung Ihrer persönlichen Daten und Ihres Profils von den Servern k�
 5. Sicherheit der Daten
 Persönlichen Daten werden durch Ergreifung aller technischer sowie organisatorischer Sicherheitsmassnahmen mit Sorgfalt behandelt und so gesichert. Unberechtigte Dritte haben keinen Zugang zu persönlichen Daten.
 6. Änderungen Datenschutzbestimmungen
-Die obigen Datenschutzrichtlinien können jederzeit, im Rahmen des Gesetzes, geändert und erweitert werden. Mit der Nutzung der App erklären Sie sich mit den Bedingungen dieser Richtlinie zum Schutz persönlicher Daten einverstanden.\n")
-                    }//änderungen
-                    
-                    Section{
-                        Text("7. Haftung")
-                            .fontWeight(.bold)
-                        Text("Jegliche Haftung wird im Rahmen des Gesetzes abgelehnt. Der Betreiber der App stehen in keinem Zusammenhang mit von Nutzern veröffentlichten Informationen und Daten aller Art.\n")
-                        
-                        Text("7.1.")
-                            .fontWeight(.bold)
-                        Text("Jegliche Verantwortung wird im Rahmen des Gesetzes abgelehnt.\n")
-                        
-                        Text("7.2")
-                            .fontWeight(.bold)
-                        Text("Die Betreiber der App haften nicht für die Richtigkeit der Daten und Informationen, insb. nicht für die Daten und Informationen welche in der App publiziert werden.\n")
-                        
-                        Text("7.3")
-                            .fontWeight(.bold)
-                        Text("Bei unbefugten Daten und Informationszugriff von Dritten, übernehmen die Betreiber der App keine Haftung.\n")
-                        
-                        Text("7.4")
-                            .fontWeight(.bold)
-                        Text("Bei unbefugten Daten und Informationszugriff von Dritten, übernehmen die Betreiber der App keine Verantwortung.\n")
-                    }//liability 7 - 7.4
-                    
-                    Section{
-                        Text("7.5")
-                            .fontWeight(.bold)
-                        Text("Die Betreiber der App haften nicht für die Informationen und Daten, welche von den Nutzern der App veröffentlicht werden.\n")
-                        
-                        Text("7.6")
-                            .fontWeight(.bold)
-                        Text("Jegliche Haftung für Hilfspersonen wird vollumfänglich ausgeschlossen.\n")
-                        
-                        Text("7.7")
-                            .fontWeight(.bold)
-                        Text("Sämtliche Haftungen welche oben erwähnt wurden und auch welche von Gesetzeswegen bestehen, werden im Rahmen des Gesetzes abgelehnt oder, fals dies nicht möglich ist, auf ein gesetzliches Minimum reduziert.\n")
-                    }//liability 7.5 - 7.7
-                    
-                    Section{
-                        Text("8. Salvatorische Klausel")
-                            .fontWeight(.bold)
-                        Text("Sollte eine Bestimmung dieses Vertrages oder Inhalte einer in den Vertrag integrierten Beilage dieses Vertrages ungültig sein oder werden, so wird dadurch die Wirksamkeit des Vertrages im Übrigen nicht berührt. Die Vertragsparteien werden die unwirksame Bestimmung durch eine wirksame Bestimmung ersetzen, die dem gewollten wirtschaftlichen Zweck der ungültigen Bestimmung sowie dem ursprünglich vereinbarten Vertragsgleichgewicht möglichst nahe kommt. Dasselbe gilt auch für allfällige Vertragslücken.")
-                    }//salvatorische Klausel
-                }
-            }
+Die obigen Datenschutzrichtlinien können jederzeit, im Rahmen des Gesetzes, geändert und erweitert werden. Mit der Nutzung der App erklären Sie sich mit den Bedingungen dieser Richtlinie zum Schutz persönlicher Daten einverstanden.
+7. Haftung
+Jegliche Haftung wird im Rahmen des Gesetzes abgelehnt. Der Betreiber der App stehen in keinem Zusammenhang mit von Nutzern veröffentlichten Informationen und Daten aller Art.
+7.1
+egliche Verantwortung wird im Rahmen des Gesetzes abgelehnt.
+7.2
+Die Betreiber der App haften nicht für die Richtigkeit der Daten und Informationen, insb. nicht für die Daten und Informationen welche in der App publiziert werden.
+7.3
+Bei unbefugten Daten und Informationszugriff von Dritten, übernehmen die Betreiber der App keine Haftung.
+7.4
+Bei unbefugten Daten und Informationszugriff von Dritten, übernehmen die Betreiber der App keine Verantwortung.
+7.5
+Die Betreiber der App haften nicht für die Informationen und Daten, welche von den Nutzern der App veröffentlicht werden.
+7.6
+Jegliche Haftung für Hilfspersonen wird vollumfänglich ausgeschlossen.
+7.7
+Sämtliche Haftungen welche oben erwähnt wurden und auch welche von Gesetzeswegen bestehen, werden im Rahmen des Gesetzes abgelehnt oder, fals dies nicht möglich ist, auf ein gesetzliches Minimum reduziert.
+8. Salvatorische Klausel
+Sollte eine Bestimmung dieses Vertrages oder Inhalte einer in den Vertrag integrierten Beilage dieses Vertrages ungültig sein oder werden, so wird dadurch die Wirksamkeit des Vertrages im Übrigen nicht berührt. Die Vertragsparteien werden die unwirksame Bestimmung durch eine wirksame Bestimmung ersetzen, die dem gewollten wirtschaftlichen Zweck der ungültigen Bestimmung sowie dem ursprünglich vereinbarten Vertragsgleichgewicht möglichst nahe kommt. Dasselbe gilt auch für allfällige Vertragslücken.
+

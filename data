@@ -1,0 +1,81 @@
+            ScrollView(.vertical) {
+                Group {
+                    Section {
+                        Text("Die nachstehende Datenschutzrichtlinie betrifft die App «Datemi» (nachstehend “App” oder “Datemi” genannt).\nDer Schutz und die Sicherheit von persönlichen Daten haben bei Datemi Priorität. Die Datenschutzrichtlinien wurden mit Hinblick auf das schweizerische Bundesgesetz über den Datenschutz (DSG) und die Datenschutz-Grundordnung (DSGVO) erarbeitet.\nNachfolgend werden Sie darüber informiert, welche Art von Daten erfasst und zu welchem Zweck sie erhoben werden: \n ")
+                    }//Einleitung
+
+                    Section {
+                        Text("1. Datenübermittlung und Datenprotokolierung\n")
+                            .fontWeight(.bold)
+                        Text("Angaben wie Nutzername, Alter, Geschlecht, Hintergrund, Beschreibung, nach welchem Geschlecht Sie suchen sowie Ihr Betriebssystem (iOS) werden auf Servern gespeichert. Breitengrad und Längengrad Ihres Standortes werden auf 0.005 genau gerundet und auf unserem Server gespeichert. Desweiteren empfiehlt Datemi die Funktion “Genauer Standort” zu deaktivieren. Durch die Rundung wird sichergestellt, dass Ihre genauen Koordinaten anonym bleiben. Die gerundeten Breiten- und Längengrade werden von den jeweiligen Endgeräten verwendet, um die Distanz zu Ihnen zu ermitteln. Distanzen, die kürzer als 1 Kilometer sind, werden auf 10 Meter genau angezeigt. Wann Ihre Profildaten zuletzt aktualisiert wurden, wird ebenfalls auf unserem Server gespeichert. Sämtliche dieser, bis hierhin genannten, Daten können Endgeräten zugänglich gemacht sowie auf ihnen gespeichert werden, um sie aus bereits zuvor genannten Gründen, als Bestandteil Ihres Profils, im Hintergrund zur Bereitstellung der App-Funktionen notwendigen Gründen zu verwenden. Durch die Nutzung der App gewähren Sie dem Betreiber der App die vollumfänglichen Rechte über die obengenannten Informationen.\nDie Angaben, dass Ihnen ein Profil gefällt und die gesendeten Chatnachrichten werden auf unserem Server gespeichert. Diese Daten werden zum Zweck der Bereitstellung der App-Funktionen gesammelt. Die Daten bleiben auf dem Gerät des Empfängers gespeichert.\nEine Garantie auf eine automatische Löschung von Daten auf dem Gerät des Empfängers besteht nicht (z. B. wegen Screenshots).\nEine App-spezifische Geräte ID wird zur einwandfreien Bereitstellung des Logins verwendet, ist aber nicht öffentlich für andere Nutzer zugänglich.\n Die App verwendet Firebase/Firestore.\n")
+                    }//Datenübermittlung und protokolierung
+                    
+                    Section{
+                        Text("2. Nutzung persönloicher Daten")
+                            .fontWeight(.bold)
+                        
+                        Text("Persönliche Daten können aufgrund gesetzlicher Vorschriften an Dritte weitergegeben werden. \n")
+                    }//Nutzung persönlicher Daten
+                    
+                    Section {
+                        Text("3. Deaktivierung Nutzerprofil")
+                            .fontWeight(.bold)
+                        Text("Die Deaktivierung Ihrer persönlichen Daten und Ihres Profils von den Servern können Sie bewirken werden. Auf Geräten von anderen Nutzern allfällig offline gespeicherte Daten wie beispielsweise Chatverläufe oder Informationen zu Ihrem Profil bleiben bestehen.\n")
+                    }//disable profile
+                    
+                    Section {
+                        Text("5. Sicherheit der Daten")
+                            .fontWeight(.bold)
+                        
+                        Text("Persönlichen Daten werden durch Ergreifung aller technischer sowie organisatorischer Sicherheitsmassnahmen mit Sorgfalt behandelt und so gesichert. Unberechtigte Dritte haben keinen Zugang zu persönlichen Daten.\n")
+                    }//Datasecurity
+                    
+                    Section{
+                        Text("6. Änderungen Datenschutzbestimmungen")
+                            .fontWeight(.bold)
+                        Text("Die obigen Datenschutzrichtlinien können jederzeit, im Rahmen des Gesetzes, geändert und erweitert werden. Mit der Nutzung der App erklären Sie sich mit den Bedingungen dieser Richtlinie zum Schutz persönlicher Daten einverstanden.\n")
+                    }//änderungen
+                    
+                    Section{
+                        Text("7. Haftung")
+                            .fontWeight(.bold)
+                        Text("Jegliche Haftung wird im Rahmen des Gesetzes abgelehnt. Der Betreiber der App stehen in keinem Zusammenhang mit von Nutzern veröffentlichten Informationen und Daten aller Art.\n")
+                        
+                        Text("7.1.")
+                            .fontWeight(.bold)
+                        Text("Jegliche Verantwortung wird im Rahmen des Gesetzes abgelehnt.\n")
+                        
+                        Text("7.2")
+                            .fontWeight(.bold)
+                        Text("Die Betreiber der App haften nicht für die Richtigkeit der Daten und Informationen, insb. nicht für die Daten und Informationen welche in der App publiziert werden.\n")
+                        
+                        Text("7.3")
+                            .fontWeight(.bold)
+                        Text("Bei unbefugten Daten und Informationszugriff von Dritten, übernehmen die Betreiber der App keine Haftung.\n")
+                        
+                        Text("7.4")
+                            .fontWeight(.bold)
+                        Text("Bei unbefugten Daten und Informationszugriff von Dritten, übernehmen die Betreiber der App keine Verantwortung.\n")
+                    }//liability 7 - 7.4
+                    
+                    Section{
+                        Text("7.5")
+                            .fontWeight(.bold)
+                        Text("Die Betreiber der App haften nicht für die Informationen und Daten, welche von den Nutzern der App veröffentlicht werden.\n")
+                        
+                        Text("7.6")
+                            .fontWeight(.bold)
+                        Text("Jegliche Haftung für Hilfspersonen wird vollumfänglich ausgeschlossen.\n")
+                        
+                        Text("7.7")
+                            .fontWeight(.bold)
+                        Text("Sämtliche Haftungen welche oben erwähnt wurden und auch welche von Gesetzeswegen bestehen, werden im Rahmen des Gesetzes abgelehnt oder, fals dies nicht möglich ist, auf ein gesetzliches Minimum reduziert.\n")
+                    }//liability 7.5 - 7.7
+                    
+                    Section{
+                        Text("8. Salvatorische Klausel")
+                            .fontWeight(.bold)
+                        Text("Sollte eine Bestimmung dieses Vertrages oder Inhalte einer in den Vertrag integrierten Beilage dieses Vertrages ungültig sein oder werden, so wird dadurch die Wirksamkeit des Vertrages im Übrigen nicht berührt. Die Vertragsparteien werden die unwirksame Bestimmung durch eine wirksame Bestimmung ersetzen, die dem gewollten wirtschaftlichen Zweck der ungültigen Bestimmung sowie dem ursprünglich vereinbarten Vertragsgleichgewicht möglichst nahe kommt. Dasselbe gilt auch für allfällige Vertragslücken.")
+                    }//salvatorische Klausel
+                }
+            }
